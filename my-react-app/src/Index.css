@@ -1,0 +1,17 @@
+button :hover{
+    background-color: darkgreen;
+}
+
+div{
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
